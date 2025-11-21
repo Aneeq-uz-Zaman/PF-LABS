@@ -1,0 +1,3 @@
+Hello, this is a file handling example in C++!
+We can write multiple lines to the file.
+File handling is essential for reading and writing data.
